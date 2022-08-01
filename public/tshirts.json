@@ -1,0 +1,180 @@
+[
+  
+    {
+      "_id": "62e6901f7e76751299f3b544",
+      "index": 1,
+      "Price": "$1,015.35",
+      "picture": "https://img.freepik.com/free-psd/white-t-shirt-mockup_125540-452.jpg?size=626&ext=jpg&ga=GA1.2.86413933.1642213775",
+      "name": "Taylor Williamson",
+      "gender": "male"
+    },
+    {
+      "_id": "62e6901fb1258bcbaf0919fa",
+      "index": 2,
+      "Price": "$3,835.24",
+      "picture": "https://img.freepik.com/premium-psd/black-polo-mockup-front-back_34168-1082.jpg?size=626&ext=jpg&ga=GA1.2.86413933.1642213775",
+      "name": "Raquel Hudson",
+      "gender": "female"
+    },
+    {
+      "_id": "62e6901fd00f8711ebdd6bc6",
+      "index": 3,
+      "Price": "$3,088.30",
+      "picture": "https://img.freepik.com/premium-psd/close-up-black-short-sleeve-t-shirt-mockup_6138-227.jpg?size=626&ext=jpg&ga=GA1.2.86413933.1642213775",
+      "name": "Marva Hopkins",
+      "gender": "female"
+    },
+    {
+      "_id": "62e6901f97f2de82df98dcea",
+      "index": 4,
+      "Price": "$3,518.33",
+      "picture": "https://img.freepik.com/free-psd/white-woman-t-shirt-mockup_125540-875.jpg?size=626&ext=jpg&ga=GA1.2.86413933.1642213775",
+      "name": "Faith Lawson",
+      "gender": "female"
+    },
+    {
+      "_id": "62e6901fafed12460f56f14a",
+      "index": 5,
+      "Price": "$1,182.34",
+      "picture": "https://img.freepik.com/free-psd/white-t-shirt-model-back-view-mockup_125540-860.jpg?size=626&ext=jpg&ga=GA1.2.86413933.1642213775",
+      "name": "Nettie Gould",
+      "gender": "female"
+    },
+    {
+        "_id": "62e69080339b0c6c2ba3fcec",
+        "index": 6,
+        "Price": "$1,993.89",
+        "picture": "https://img.freepik.com/free-psd/white-t-shirt-model-profile-view-mockup_125540-864.jpg?size=626&ext=jpg&ga=GA1.2.86413933.1642213775",
+        "name": "Fran Keith",
+        "gender": "female"
+      },
+      {
+        "_id": "62e690802b0ec5eb4f9ebd6a",
+        "index": 7,
+        "Price": "$2,588.94",
+        "picture": "https://img.freepik.com/free-photo/black-t-shirt-front-isolated_125540-808.jpg?size=626&ext=jpg&ga=GA1.2.86413933.1642213775",
+        "name": "Tiffany Gonzalez",
+        "gender": "female"
+      },
+      {
+        "_id": "62e690802018a23b1a6c07cd",
+        "index": 8,
+        "Price": "$1,757.77",
+        "picture": "https://img.freepik.com/free-psd/minimalist-polo-shirt-design-mockup_23-2149330743.jpg?size=626&ext=jpg&ga=GA1.2.86413933.1642213775",
+        "name": "Graham Deleon",
+        "gender": "male"
+      },
+      {
+        "_id": "62e690806cc0e21d989cb051",
+        "index": 9,
+        "Price": "$3,387.99",
+        "picture": "https://img.freepik.com/free-psd/minimalist-polo-shirt-design-mockup_23-2149330751.jpg?size=626&ext=jpg&ga=GA1.2.86413933.1642213775",
+        "name": "Witt Randolph",
+        "gender": "male"
+      },
+      {
+        "_id": "62e690808f72287891eb5461",
+        "index": 10,
+        "Price": "$2,575.46",
+        "picture": "https://img.freepik.com/free-psd/top-view-black-tshirt-minimal-scene-studio_23-2149416551.jpg?size=626&ext=jpg&ga=GA1.2.86413933.1642213775",
+        "name": "Downs Hyde",
+        "gender": "male"
+      },
+      {
+        "_id": "62e6908074f30b1e03f2e73e",
+        "index": 11,
+        "Price": "$2,589.97",
+        "picture": "https://img.freepik.com/free-photo/black-t-shirts-with-copy-space_53876-102012.jpg?size=626&ext=jpg&ga=GA1.2.86413933.1642213775",
+        "name": "Bowman Rush",
+        "gender": "male"
+      },
+      {
+        "_id": "62e690a6386f6e6d3de31700",
+        "index": 12,
+        "Price": "$2,176.08",
+        "picture": "https://img.freepik.com/free-psd/black-woman-t-shirt-mockup_125540-866.jpg?size=626&ext=jpg&ga=GA1.2.86413933.1642213775",
+        "name": "Day Owens",
+        "gender": "male"
+      },
+      {
+        "_id": "62e690a626f932fd2f289bb4",
+        "index": 13,
+        "Price": "$1,800.39",
+        "picture": "https://img.freepik.com/free-psd/black-t-shirt-geometric-print-pattern-mockup_125540-865.jpg?size=626&ext=jpg&ga=GA1.2.86413933.1642213775",
+        "name": "Hurst Dodson",
+        "gender": "male"
+      },
+      {
+        "_id": "62e690a6281cf323e01766a5",
+        "index": 14,
+        "Price": "$2,928.19",
+        "picture": "https://img.freepik.com/free-vector/soccer-jersey-template-sport-t-shirt-design_29096-1293.jpg?size=626&ext=jpg&ga=GA1.2.86413933.1642213775",
+        "name": "Willis Oneal",
+        "gender": "male"
+      },
+      {
+        "_id": "62e690a67d74a90a46789e95",
+        "index": 15,
+        "Price": "$2,697.53",
+        "picture": "https://img.freepik.com/free-psd/black-front-sweater-mockup_125540-570.jpg?size=626&ext=jpg&ga=GA1.2.86413933.1642213775",
+        "name": "Frye Padilla",
+        "gender": "male"
+      },
+      {
+        "_id": "62e690a63c249be220ec2878",
+        "index": 16,
+        "Price": "$3,093.91",
+        "picture": "https://img.freepik.com/free-psd/red-t-shirt-mock-up_1310-236.jpg?size=626&ext=jpg&ga=GA1.2.86413933.1642213775",
+        "name": "Robert Gilmore",
+        "gender": "female"
+      },
+      {
+        "_id": "62e690ba3d03f997edc31854",
+        "index": 17,
+        "Price": "$3,680.99",
+        "picture": "https://img.freepik.com/free-psd/chromatees-tshirt-mockup_126278-17.jpg?size=626&ext=jpg&ga=GA1.2.86413933.1642213775",
+        "name": "Weaver Vega",
+        "gender": "male"
+      },
+      {
+        "_id": "62e690ba4874f53d04a28bdb",
+        "index": 18,
+        "Price": "$3,784.49",
+        "picture": "https://img.freepik.com/free-psd/t-shirt-with-geometric-print-pattern-mockup_125540-873.jpg?size=626&ext=jpg&ga=GA1.2.86413933.1642213775",
+        "name": "Combs Orr",
+        "gender": "male"
+      },
+      {
+        "_id": "62e690baa851e471fa954072",
+        "index": 19,
+        "Price": "$1,246.56",
+        "picture": "https://img.freepik.com/free-psd/sweater-mockup-front-back_125540-579.jpg?size=626&ext=jpg&ga=GA1.2.86413933.1642213775",
+        "name": "Neva Gamble",
+        "gender": "female"
+      },
+      {
+        "_id": "62e690ba1c76e2f4f2fccb5d",
+        "index": 20,
+        "Price": "$3,931.29",
+        "picture": "https://img.freepik.com/free-psd/ecological-t-shirt-packaging-mockup_23-2149113936.jpg?size=626&ext=jpg&ga=GA1.2.86413933.1642213775",
+        "name": "Velma Mccormick",
+        "gender": "female"
+      },
+      {
+        "_id": "62e690baef06029becd0a9b8",
+        "index": 21,
+        "Price": "$1,435.46",
+        "picture": "https://img.freepik.com/free-photo/man-wearing-t-shirt-gesturing_23-2149393652.jpg?size=626&ext=jpg&ga=GA1.2.86413933.1642213775",
+        "name": "Cole Moon",
+        "gender": "male"
+      },
+      {
+        "_id": "62e690bad49391a4d9d46499",
+        "index": 22,
+        "Price": "$3,501.02",
+        "picture": "https://img.freepik.com/premium-psd/mens-tshirt-front-view-mockup_520829-59.jpg?size=626&ext=jpg&ga=GA1.2.86413933.1642213775",
+        "name": "Blevins Miles",
+        "gender": "male"
+      }
+    
+  ]

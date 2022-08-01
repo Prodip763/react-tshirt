@@ -1,0 +1,9 @@
+.grandpa, .grandpa div{
+    border: 2px solid aquamarine;
+    margin: 5px 10px;
+    padding: 5px;
+    border-radius: 5px;
+}
+.grandpa h2, p {
+    text-align: center;
+}
