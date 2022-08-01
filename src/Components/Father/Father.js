@@ -7,7 +7,7 @@ import './Father.css';
 const Father = ({house}) =>{
     return(
         <div >
-            <h3 className="father">Father</h3>
+            <h3 className="father">My Father</h3>
             <p className="father">House: {house}</p>
             <div style={{display: 'flex'}}>
             <Myself house={house} ></Myself>
